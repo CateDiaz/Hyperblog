@@ -1,0 +1,7 @@
+Esta es la historia de Andre 
+
+Aprendiendo git y gitHub
+
+Modificando el documento
+
+agregamos otra linea
